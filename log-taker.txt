@@ -1380,3 +1380,15 @@
 3/10/2025 | 8:11:00 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
 3/10/2025 | 8:11:01 AM | INFO | Start process for wallet 0x0860972D0e67d50944D5316495811498b1841985 
 3/10/2025 | 8:11:01 AM | ERROR | Failed to retrieve nonce for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+3/10/2025 | 12:17:10 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/10/2025 | 12:17:11 PM | INFO | Start process for wallet 0x0860972D0e67d50944D5316495811498b1841985 
+3/10/2025 | 12:17:12 PM | INFO | Trying To Login for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+3/10/2025 | 12:17:13 PM | INFO | Login successful... 
+3/10/2025 | 12:17:13 PM | INFO | Trying to check user info... 
+3/10/2025 | 12:17:13 PM | INFO | User ID: 103258015 | Twitter: @mygiva | Total Points: 504000 
+3/10/2025 | 12:17:13 PM | INFO | Trying to check user miner status... 
+3/10/2025 | 12:17:14 PM | INFO | Last mining time: 3/8/2025, 12:34:45 AM
+3/10/2025 | 12:17:14 PM | INFO | Trying to start Mining for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+3/10/2025 | 12:17:15 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/10/2025 | 12:17:15 PM | INFO | Trying to activate mining on-chain for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+3/10/2025 | 12:17:22 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x71b9c624ebe0d5808b2318c0dcaccbeb43c564f41cf2fe9df2d2e7f289f04d8b 
