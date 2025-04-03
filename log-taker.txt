@@ -2728,3 +2728,15 @@
 4/3/2025 | 12:44:46 AM | WARN | Retrying... (0 attempts left) 
 4/3/2025 | 12:44:49 AM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/3/2025 | 12:44:49 AM | ERROR | Failed to retrieve nonce for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+4/3/2025 | 4:12:09 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 4:12:09 AM | INFO | Start process for wallet 0x0860972D0e67d50944D5316495811498b1841985 
+4/3/2025 | 4:12:10 AM | INFO | Trying To Login for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+4/3/2025 | 4:12:10 AM | INFO | Login successful... 
+4/3/2025 | 4:12:10 AM | INFO | Trying to check user info... 
+4/3/2025 | 4:12:11 AM | INFO | User ID: 103258015 | Twitter: @mygiva | Total Points: 1008000 
+4/3/2025 | 4:12:11 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 4:12:11 AM | INFO | Last mining time: 4/1/2025, 12:18:12 PM
+4/3/2025 | 4:12:11 AM | INFO | Trying to start Mining for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+4/3/2025 | 4:12:12 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 4:12:12 AM | INFO | Trying to activate mining on-chain for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+4/3/2025 | 4:12:22 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x171f3df7d23dae14dd29a41d55277e021b6a0d7009d2afd0c2ba0163270c2b1c 
