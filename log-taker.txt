@@ -7168,3 +7168,12 @@
 6/20/2025 | 12:57:27 AM | WARN | Retrying... (0 attempts left) 
 6/20/2025 | 12:59:46 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 6/20/2025 | 12:59:46 AM | ERROR | Failed to retrieve nonce for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+6/20/2025 | 4:17:35 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/20/2025 | 4:17:35 AM | INFO | Start process for wallet 0x0860972D0e67d50944D5316495811498b1841985 
+6/20/2025 | 4:17:36 AM | INFO | Trying To Login for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+6/20/2025 | 4:17:37 AM | INFO | Login successful... 
+6/20/2025 | 4:17:37 AM | INFO | Trying to check user info... 
+6/20/2025 | 4:17:38 AM | INFO | User ID: 103258015 | Twitter: @mygiva | Total Points: 2688000 
+6/20/2025 | 4:17:38 AM | INFO | Trying to check user miner status... 
+6/20/2025 | 4:17:38 AM | INFO | Last mining time: 6/19/2025, 12:19:54 PM
+6/20/2025 | 4:17:38 AM | WARN | Mining already started, next mining time is: 6/20/2025, 12:19:54 PM
