@@ -8149,3 +8149,15 @@
 7/7/2025 | 8:15:36 AM | INFO | Trying to check user miner status... 
 7/7/2025 | 8:15:37 AM | INFO | Last mining time: 7/6/2025, 12:17:27 PM
 7/7/2025 | 8:15:37 AM | WARN | Mining already started, next mining time is: 7/7/2025, 12:17:27 PM
+7/7/2025 | 12:19:24 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/7/2025 | 12:19:24 PM | INFO | Start process for wallet 0x0860972D0e67d50944D5316495811498b1841985 
+7/7/2025 | 12:19:25 PM | INFO | Trying To Login for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+7/7/2025 | 12:19:25 PM | INFO | Login successful... 
+7/7/2025 | 12:19:25 PM | INFO | Trying to check user info... 
+7/7/2025 | 12:19:26 PM | INFO | User ID: 103258015 | Twitter: @mygiva | Total Points: 3048000 
+7/7/2025 | 12:19:26 PM | INFO | Trying to check user miner status... 
+7/7/2025 | 12:19:27 PM | INFO | Last mining time: 7/6/2025, 12:17:27 PM
+7/7/2025 | 12:19:27 PM | INFO | Trying to start Mining for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+7/7/2025 | 12:19:28 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+7/7/2025 | 12:19:28 PM | INFO | Trying to activate mining on-chain for wallet: 0x0860972D0e67d50944D5316495811498b1841985 
+7/7/2025 | 12:19:40 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x184ade7b9ac47759e4c542efad883f7c849289975b8175537682909a4806a8f9 
